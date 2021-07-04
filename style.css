@@ -62,7 +62,7 @@ label#icon {
     font-size: 17px;
   }
 }
-@media (max-width: 909px) {
+@media (max-width: 950px) {
   label#icon {
     display: block;
   }
